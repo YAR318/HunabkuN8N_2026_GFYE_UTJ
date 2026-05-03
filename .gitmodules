@@ -1,0 +1,6 @@
+[submodule "hk-filament-est"]
+	path = hk-filament-est
+	url = https://github.com/YAR318/hk-filament-est.git
+[submodule "HK_Autenticacion_EST"]
+	path = HK_Autenticacion_EST
+	url = https://github.com/YAR318/HK_Autenticacion_EST.git

@@ -1,0 +1,6 @@
+evolution-api/.env
+evolution-api/instances/
+mysql_data/
+redis_data/
+n8n_data/
+.env
