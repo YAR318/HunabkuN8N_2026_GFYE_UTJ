@@ -1,8 +1,8 @@
-# HunabkuN8N 2026 GFYE UTJ 🚀
+# HunabkuN8N 2026 GFYE UTJ 
 
 Este repositorio contiene la arquitectura completa en microservicios del proyecto **HunabkuN8N**, que integra paneles de administración (Filament), un sistema de autenticación centralizado (SSO) y la infraestructura de automatización con n8n y WhatsApp (Evolution API).
 
-## 🏗️ Arquitectura del Proyecto
+##  Arquitectura del Proyecto
 
 El ecosistema está construido en base a submódulos de Git para mantener el código organizado e independiente. Los componentes principales son:
 
@@ -12,7 +12,7 @@ El ecosistema está construido en base a submódulos de Git para mantener el có
 
 ---
 
-## ⚙️ Requisitos Previos
+##  Requisitos Previos
 
 Antes de instalar, asegúrate de tener instalado en tu sistema:
 - [Git](https://git-scm.com/)
@@ -20,7 +20,7 @@ Antes de instalar, asegúrate de tener instalado en tu sistema:
 
 ---
 
-## 🛠️ Instrucciones de Instalación
+##  Instrucciones de Instalación
 
 ### 1. Clonar el repositorio
 Es **crítico** utilizar la bandera `--recursive` al clonar para que Git descargue automáticamente los submódulos de Filament y Autenticación.
@@ -71,7 +71,7 @@ docker exec -it hk-autenticacion bash -c "composer install && php artisan key:ge
 
 ---
 
-## 🌐 Accesos del Sistema
+##  Accesos del Sistema
 
 Una vez levantados todos los servicios, puedes acceder a través de tu navegador local:
 
